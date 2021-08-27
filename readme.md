@@ -6,7 +6,6 @@ El **chocolate** se elabora a partir de habas de cacao o productos del cacao (ca
 ![Chocolates](https://images.jumpseller.com/store/carolina-cardenas-bozzo/category/715469/image00086_2_.jpeg.jpeg?0)
 
 - [Historia del Chocolate](https://nestlefamilyclub.es/articulo/historia-del-chocolate#)
----
 
 ## Introduccion
 
@@ -14,13 +13,6 @@ Para empezar, a menudo se confunden el cacao, los productos de cacao y el chocol
 
 ![Cacao](https://statics-cuidateplus.marca.com/cms/cacao.jpg)
 
-
-
-
-
-
-
----
 
 ## Algunos tipos de chocolates 
 
