@@ -25,8 +25,12 @@ Para empezar, a menudo se confunden el cacao, los productos de cacao y el chocol
 ##### % de caocao en chocolates
 
 |chocolate negro  | chocolate de leche  | chocolate blanco|  
-|-----------------|---------------------|-----------------|
+|:---------------:|:-------------------:|:---------------:|
 | 70-85%          | 40%                 | 20%             |  
 
 
+Institute of Food Research Peter Rogers:
 
+> Comer chocolate puede tener una influencia importante sobre el estado de ánimo, por lo general conduce a un aumento de sensaciones agradables y una reducción de la tensión - Peter Rogers, 
+
+###### FIN  :chocolate_bar: :chocolate_bar: :chocolate_bar:
