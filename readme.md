@@ -24,9 +24,9 @@ Para empezar, a menudo se confunden el cacao, los productos de cacao y el chocol
 
 ##### % de caocao en chocolates
 
-|chocolate negro  | chocolate de leche  | chocolate blanco  
-|---|---|---|---|---|
-| 70-85% | 40% | 20% |  
+|chocolate negro  | chocolate de leche  | chocolate blanco|  
+|-----------------|---------------------|-----------------|
+| 70-85%          | 40%                 | 20%             |  
 
 
 
